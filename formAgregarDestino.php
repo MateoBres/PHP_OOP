@@ -75,7 +75,7 @@
 
 
                     <button class="btn btn-dark mr-3">Agregar destino</button>
-                    <a href="adminDestinos.php" class="btn btn-outline-secondary">
+                    <a href="index.php" class="btn btn-outline-secondary">
                         Volver a panel de destinos
                     </a>
 

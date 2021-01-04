@@ -22,7 +22,7 @@
         ?>
             <div class="alert col-6 mx-auto alert-<?= $css ?>">
                 <?= $mensaje ?> <br>
-                <a href="adminDestinos.php" class="btn btn-outline-secondary">
+                <a href="index.php" class="btn btn-outline-secondary">
                         Volver a panel
                     </a>
             </div>

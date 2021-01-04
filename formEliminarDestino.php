@@ -19,7 +19,7 @@
                 <input type="hidden" name="destNombre"
                        value="<?= $Destino->getDestNombre() ?>">
                 <button class="btn btn-danger btn-block my-3">Confirmar baja</button>
-                <a href="adminDestinos.php" class="btn btn-outline-secondary btn-block my-2">
+                <a href="index.php" class="btn btn-outline-secondary btn-block my-2">
                     Volver a panel
                 </a>
             </form>

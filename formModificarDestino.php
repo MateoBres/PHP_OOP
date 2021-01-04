@@ -87,7 +87,7 @@
                                 value='<?= $Destino->getDestID(); ?>'>
 
                     <button class="btn btn-dark mr-3">Modificar destino</button>
-                    <a href="adminDestinos.php" class="btn btn-outline-secondary">
+                    <a href="index.php" class="btn btn-outline-secondary">
                         Volver a panel
                     </a>
 
